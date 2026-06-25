@@ -21,5 +21,3 @@ taxonomies, deployment safety.
 - **[OpenClaw harness](https://github.com/yash-gadodia/custom-agent-harness)** — self-healing ops for long-running agents: health probes, layered self-heal, PII-safe logging
 
 📍 The full story, with metrics and write-ups → **[yashgadodia.com](https://yashgadodia.com)**
-
-*Open to applied-AI / agent product roles.*
