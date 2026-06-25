@@ -15,8 +15,8 @@ so I ship reliability, not slideware.
 taxonomies, deployment safety.
 
 **Selected work**
-- **Envoy CRM** — WhatsApp-first inbox with a per-tenant agent that triages + drafts replies
-- **Volty** — multi-tenant self-serve agent platform with a self-improving knowledge base
+- **[Envoy CRM](https://voltade.com)** — WhatsApp-first inbox with a per-tenant agent that triages + drafts replies
+- **[Volty](https://voltade.com/volty)** — multi-tenant self-serve agent platform with a self-improving knowledge base
 - **[Vobase](https://github.com/yash-gadodia/vobase)** — app framework built for AI coding agents (100+ agents live)
 - **[OpenClaw harness](https://github.com/yash-gadodia/custom-agent-harness)** — self-healing ops for long-running agents: health probes, layered self-heal, PII-safe logging
 
