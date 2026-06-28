@@ -17,7 +17,7 @@ taxonomies, deployment safety.
 **Selected work**
 - **[Envoy CRM](https://voltade.com)**: WhatsApp-first inbox with a per-tenant agent that triages and drafts replies
 - **[Volty](https://voltade.com/volty)**: multi-tenant self-serve agent platform with a self-improving knowledge base
-- **[Vobase](https://github.com/yash-gadodia/vobase)**: app framework built for AI coding agents (100+ agents live)
+- **[Vobase](https://github.com/vobase/vobase)**: app framework built for AI coding agents (100+ agents live)
 - **[OpenClaw harness](https://github.com/yash-gadodia/custom-agent-harness)**: self-healing ops for long-running agents, with health probes, layered self-heal, and PII-safe logging
 
 📍 The full story, with metrics and write-ups → **[yashgadodia.com](https://yashgadodia.com)**
