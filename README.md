@@ -1,23 +1,18 @@
-### Yash Gadodia · Applied AI Product Manager
+### Yash Gadodia
 
-**Agents that are live, not demos.** I put AI agents on real customers'
-WhatsApp lines, and I'm accountable when they get it wrong.
+I build things that run real businesses. Right now that is three things:
 
-Founding AI PM @ Voltade · Singapore · 5 years an engineer before product,
-so I ship reliability, not slideware.
+- **Volty**, at [Voltade](https://voltade.com). An AI employee for small businesses on WhatsApp and email. I take client deployments from the first call to go-live. Carl and Yiyuan built most of the platform.
+- **[The Bon Pet](https://thebonpet.com)**, with Nic. Fresh cooked food for cats and dogs in Singapore. I run marketing and the automation behind it: [the n8n workflows](https://github.com/yash-gadodia/n8n-bonpet), [the Shopify theme](https://github.com/yash-gadodia/thebonpet-theme) and [how we make Reels with an AI coding agent](https://github.com/yash-gadodia/video-editing-playbook).
+- **[Ragnarok](https://yashgadodia.com/a-gym-os-in-seven-weeks/)**, with Dani. A workout app our CrossFit gym runs on, 480 members and counting.
 
-**In production right now**
-- 🤖 **230K** agent interactions/day at **99.65%** success
-- 🏪 **100+ SMEs** running deployed agents
-- 📦 Prior: **100M+ events/day** at Ninja Van
+Almost all of it is built with Claude Code, and these came out of that:
 
-**What I work on:** agent reliability, eval design, guardrails, failure
-taxonomies, deployment safety.
+- **[claude-mods](https://github.com/yash-gadodia/claude-mods)**: hooks that keep an agent honest, like guarding scope and verifying deploys
+- **[awesome-claude-code-mods](https://github.com/yash-gadodia/awesome-claude-code-mods)**: every Claude Code mod on GitHub, and what each one can reach
+- **[claude-init](https://github.com/yash-gadodia/claude-init)**: make any repo AI-native in one command
+- **[custom-agent-harness](https://github.com/yash-gadodia/custom-agent-harness)**: self-healing ops for the agents I run on a Mac Mini at home
+- **[parallax](https://github.com/yash-gadodia/parallax)**: a couples app on the App Store, plus [the playbook](https://github.com/yash-gadodia/building-ios-apps) behind it
+- **[gym-booker](https://github.com/yash-gadodia/gym-booker)**: books my CrossFit classes the second they open
 
-**Selected work**
-- **[Envoy CRM](https://voltade.com)**: WhatsApp-first inbox with a per-tenant agent that triages and drafts replies
-- **[Volty](https://voltade.com/volty)**: multi-tenant self-serve agent platform with a self-improving knowledge base
-- **[Vobase](https://github.com/vobase/vobase)**: app framework built for AI coding agents (100+ agents live)
-- **[OpenClaw harness](https://github.com/yash-gadodia/custom-agent-harness)**: self-healing ops for long-running agents, with health probes, layered self-heal, and PII-safe logging
-
-📍 The full story, with metrics and write-ups → **[yashgadodia.com](https://yashgadodia.com)**
+Singapore. Writing at [yashgadodia.com](https://yashgadodia.com).
