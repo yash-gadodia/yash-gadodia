@@ -8,7 +8,7 @@ I build things that run real businesses. Right now that is three things:
 
 Almost all of it is built with Claude Code, and these came out of that:
 
-- **[Ragnarok](https://yashgadodia.com/a-gym-os-in-seven-weeks/)**, with Dani: the workout app our CrossFit gym runs on, 480 members and counting
+- **[Ragnarok](https://yashgadodia.com/a-gym-os-in-seven-weeks/)**, with Dani: the workout app our CrossFit gym runs on, 500+ members and counting
 - **[claude-mods](https://github.com/yash-gadodia/claude-mods)**: hooks that keep an agent honest, like guarding scope and verifying deploys
 - **[awesome-claude-code-mods](https://github.com/yash-gadodia/awesome-claude-code-mods)**: every Claude Code mod on GitHub, and what each one can reach
 - **[claude-init](https://github.com/yash-gadodia/claude-init)**: make any repo AI-native in one command
