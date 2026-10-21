@@ -2,7 +2,7 @@
 
 I build things that run real businesses. Right now that is three things:
 
-- **Volty**, at [Voltade](https://voltade.com). An AI employee for small businesses on WhatsApp and email. I take client deployments from the first call to go-live. Carl and Yiyuan built most of the platform.
+- **Volty**, at [Voltade](https://voltade.com). An AI employee for small businesses on WhatsApp and email. I take client deployments from the first call to go-live.
 - **[The Bon Pet](https://thebonpet.com)**, with Nic. Fresh cooked food for cats and dogs in Singapore. I run marketing and the automation behind it: [the n8n workflows](https://github.com/yash-gadodia/n8n-bonpet), [the Shopify theme](https://github.com/yash-gadodia/thebonpet-theme) and [how we make Reels with an AI coding agent](https://github.com/yash-gadodia/video-editing-playbook).
 - **[Ragnarok](https://yashgadodia.com/a-gym-os-in-seven-weeks/)**, with Dani. A workout app our CrossFit gym runs on, 480 members and counting.
 
